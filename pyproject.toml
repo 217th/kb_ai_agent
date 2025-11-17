@@ -1,8 +1,8 @@
 [project]
-name = "academic-research"
+name = "kb_agent"
 version = "0.1.0"
-description = "AI-driven agent designed to facilitate the exploration of the academic landscape"
-authors = [{ name = "Antonio Gulli", email = "gulli@google.com" }]
+description = ""
+authors = [{ name = "DD", email = "217@217.ru" }]
 license = "Apache-2.0"
 readme = "README.md"
 dependencies = [
